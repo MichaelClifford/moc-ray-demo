@@ -1,0 +1,6 @@
+ray
+ray[tune]
+tune_sklearn
+scikit-learn
+torch
+torch-vision
